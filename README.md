@@ -1,6 +1,6 @@
 🌦️ Weather Forecast Website
 
-Welcome to our weather website! 🌈 Built with HTML, CSS, and JS, it offers real-time weather updates. Features include location-based forecasts 📍 and responsive design for all devices. Stay ahead with accurate weather predictions. ⛅️
+Welcome to my weather website! 🌈 Built with HTML, CSS, and JS, it offers real-time weather updates. Features include location-based forecasts 📍 and responsive design for all devices. Stay ahead with accurate weather predictions. ⛅️
 
 
 # DEMO
